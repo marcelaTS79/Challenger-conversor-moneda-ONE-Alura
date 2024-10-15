@@ -5,10 +5,11 @@ Este es un proyecto para ONE-Alura, Challenger de conversor de monedas que utili
 ![Conversor de Monedas](src/main/resources/ConversorenApi.png)
 
 ## Video de demostración
+(https://youtu.be/iHCiBwgfBv4?si=7oZAwqYNip0i-P0H)
 
-[![Video de demostración]![Interfaz del conversor](src/main/resources/conversor.png)
+![Interfaz del conversor](src/main/resources/conversor.png)
 ![Resultado de la conversión](src/main/resources/resultado.png)
-![Historial de conversiones](src/main/resources/historial.png)(https://youtu.be/iHCiBwgfBv4?si=7oZAwqYNip0i-P0H)
+![Historial de conversiones](src/main/resources/historial.png)
 
 ## Características
 - Conversión entre múltiples monedas.
